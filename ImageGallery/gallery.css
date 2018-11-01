@@ -1,0 +1,37 @@
+.flex {
+display: flex;
+flex-wrap: wrap;
+}
+
+body{
+  padding-top: 70px;
+  background: white;
+  color: white;
+  
+}
+
+
+
+.navbar-default .navbar-brand {
+    color: white;
+}
+
+
+.jumbotron
+{
+  background: #ffcccb
+}
+
+.navbar-default .navbar-nav>li>a
+{
+  color: white;
+
+}
+.navbar-collapse, .navbar-default .navbar-form {
+    border-color: ##cb9b9a;
+}
+
+.navbar-default
+{
+  background: #cb9b9a;
+}
